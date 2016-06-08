@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-sub",
+  "name": "markdown-it-sub-alt",
   "version": "1.0.0",
   "description": "<sub> tag for markdown-it markdown parser.",
   "keywords": [
@@ -9,13 +9,13 @@
     "subscript",
     "sub"
   ],
-  "homepage": "https://github.com/markdown-it/markdown-it-sub",
+  "homepage": "https://github.com/jay-hodgson/markdown-it-sub",
   "repository": {
     "type": "git",
-    "url": "git://github.com/markdown-it/markdown-it-sub.git"
+    "url": "git://github.com/jay-hodgson/markdown-it-sub.git"
   },
   "bugs": {
-    "url": "https://github.com/markdown-it/markdown-it-sub/issues"
+    "url": "https://github.com/jay-hodgson/markdown-it-sub/issues"
   },
   "license": "MIT",
   "main": "index.js",

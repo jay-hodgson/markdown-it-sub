@@ -35,8 +35,8 @@ function subscript(state, silent) {
 
   content = state.src.slice(start + 1, state.pos);
 
-  // don't allow unescaped spaces/newlines inside
-  if (content.match(/(^|[^\\])(\\\\)*\s/)) {
+  // don't allow unescaped newlines inside
+  if (content.match(/(^|[^\\])(\\\\)*[\n]/)) {
     state.pos = start;
     return false;
   }
