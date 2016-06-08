@@ -1,7 +1,7 @@
 # markdown-it-sub-alt
 
 [![NPM version](https://img.shields.io/npm/v/markdown-it-sub-alt.svg?style=flat)](https://www.npmjs.org/package/markdown-it-sub-alt)
-[![Coverage Status](https://img.shields.io/coveralls/markdown-it/markdown-it-sub-alt/master.svg?style=flat)](https://coveralls.io/r/markdown-it/markdown-it-sub-alt?branch=master)
+)
 
 > Subscript (`<sub>`) tag plugin for [markdown-it](https://github.com/markdown-it/markdown-it) markdown parser.
 
